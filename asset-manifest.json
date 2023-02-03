@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/httpsLucasAraujo019.github.io/react-calc-imc/static/css/main.92f5742b.css",
-    "main.js": "/httpsLucasAraujo019.github.io/react-calc-imc/static/js/main.3c382607.js",
-    "static/js/787.10a56187.chunk.js": "/httpsLucasAraujo019.github.io/react-calc-imc/static/js/787.10a56187.chunk.js",
-    "index.html": "/httpsLucasAraujo019.github.io/react-calc-imc/index.html",
-    "main.92f5742b.css.map": "/httpsLucasAraujo019.github.io/react-calc-imc/static/css/main.92f5742b.css.map",
-    "main.3c382607.js.map": "/httpsLucasAraujo019.github.io/react-calc-imc/static/js/main.3c382607.js.map",
-    "787.10a56187.chunk.js.map": "/httpsLucasAraujo019.github.io/react-calc-imc/static/js/787.10a56187.chunk.js.map"
+    "main.css": "/react-calc-imc/static/css/main.92f5742b.css",
+    "main.js": "/react-calc-imc/static/js/main.ef6f94c5.js",
+    "static/js/787.10a56187.chunk.js": "/react-calc-imc/static/js/787.10a56187.chunk.js",
+    "index.html": "/react-calc-imc/index.html",
+    "main.92f5742b.css.map": "/react-calc-imc/static/css/main.92f5742b.css.map",
+    "main.ef6f94c5.js.map": "/react-calc-imc/static/js/main.ef6f94c5.js.map",
+    "787.10a56187.chunk.js.map": "/react-calc-imc/static/js/787.10a56187.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92f5742b.css",
-    "static/js/main.3c382607.js"
+    "static/js/main.ef6f94c5.js"
   ]
 }
